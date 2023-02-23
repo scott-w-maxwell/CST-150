@@ -1,0 +1,17 @@
+C:\Users\smaxwell\source\repos\Activity5\Activity5\bin\Debug\net7.0-windows\Activity5.exe
+C:\Users\smaxwell\source\repos\Activity5\Activity5\bin\Debug\net7.0-windows\Activity5.deps.json
+C:\Users\smaxwell\source\repos\Activity5\Activity5\bin\Debug\net7.0-windows\Activity5.runtimeconfig.json
+C:\Users\smaxwell\source\repos\Activity5\Activity5\bin\Debug\net7.0-windows\Activity5.dll
+C:\Users\smaxwell\source\repos\Activity5\Activity5\bin\Debug\net7.0-windows\Activity5.pdb
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\Activity5.csproj.AssemblyReference.cache
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\Activity5.Form1.resources
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\Activity5.csproj.GenerateResource.cache
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\Activity5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\Activity5.AssemblyInfoInputs.cache
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\Activity5.AssemblyInfo.cs
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\Activity5.csproj.CoreCompileInputs.cache
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\Activity5.dll
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\refint\Activity5.dll
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\Activity5.pdb
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\Activity5.genruntimeconfig.cache
+C:\Users\smaxwell\source\repos\Activity5\Activity5\obj\Debug\net7.0-windows\ref\Activity5.dll

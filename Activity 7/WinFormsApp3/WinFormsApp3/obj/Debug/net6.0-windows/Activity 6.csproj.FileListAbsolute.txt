@@ -1,0 +1,18 @@
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Activity 6.exe
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Activity 6.deps.json
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Activity 6.runtimeconfig.json
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Activity 6.dll
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\Activity 6.pdb
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Activity 6.csproj.AssemblyReference.cache
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Activity_6.Properties.Resources.resources
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Activity 6.csproj.GenerateResource.cache
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Activity 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Activity 6.AssemblyInfoInputs.cache
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Activity 6.AssemblyInfo.cs
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Activity 6.csproj.CoreCompileInputs.cache
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Activity 6.dll
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\refint\Activity 6.dll
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Activity 6.pdb
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\Activity 6.genruntimeconfig.cache
+C:\Users\smaxwell\source\repos\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ref\Activity 6.dll

@@ -1,0 +1,17 @@
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\activity8.csproj.AssemblyReference.cache
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\activity8.csproj.GenerateResource.cache
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\activity8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\activity8.AssemblyInfoInputs.cache
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\activity8.AssemblyInfo.cs
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\activity8.csproj.CoreCompileInputs.cache
+C:\Users\smaxwell\source\repos\activity8\activity8\bin\Debug\net7.0-windows\activity8.exe
+C:\Users\smaxwell\source\repos\activity8\activity8\bin\Debug\net7.0-windows\activity8.deps.json
+C:\Users\smaxwell\source\repos\activity8\activity8\bin\Debug\net7.0-windows\activity8.runtimeconfig.json
+C:\Users\smaxwell\source\repos\activity8\activity8\bin\Debug\net7.0-windows\activity8.dll
+C:\Users\smaxwell\source\repos\activity8\activity8\bin\Debug\net7.0-windows\activity8.pdb
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\activity8.dll
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\refint\activity8.dll
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\activity8.pdb
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\activity8.genruntimeconfig.cache
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\ref\activity8.dll
+C:\Users\smaxwell\source\repos\activity8\activity8\obj\Debug\net7.0-windows\activity8.Form1.resources
