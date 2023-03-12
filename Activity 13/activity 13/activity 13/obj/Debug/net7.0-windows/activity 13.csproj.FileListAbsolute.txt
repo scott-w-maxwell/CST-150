@@ -15,3 +15,20 @@ C:\Users\smaxwell\source\repos\activity 13\activity 13\obj\Debug\net7.0-windows\
 C:\Users\smaxwell\source\repos\activity 13\activity 13\obj\Debug\net7.0-windows\activity 13.pdb
 C:\Users\smaxwell\source\repos\activity 13\activity 13\obj\Debug\net7.0-windows\activity 13.genruntimeconfig.cache
 C:\Users\smaxwell\source\repos\activity 13\activity 13\obj\Debug\net7.0-windows\ref\activity 13.dll
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\bin\Debug\net7.0-windows\activity 13.exe
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\bin\Debug\net7.0-windows\activity 13.deps.json
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\bin\Debug\net7.0-windows\activity 13.runtimeconfig.json
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\bin\Debug\net7.0-windows\activity 13.dll
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\bin\Debug\net7.0-windows\activity 13.pdb
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\activity 13.csproj.AssemblyReference.cache
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\activity_13.Form1.resources
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\activity 13.csproj.GenerateResource.cache
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\activity 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\activity 13.AssemblyInfoInputs.cache
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\activity 13.AssemblyInfo.cs
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\activity 13.csproj.CoreCompileInputs.cache
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\activity 13.dll
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\refint\activity 13.dll
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\activity 13.pdb
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\activity 13.genruntimeconfig.cache
+C:\Users\smaxwell\Documents\CST-150\Activity 13\activity 13\activity 13\obj\Debug\net7.0-windows\ref\activity 13.dll
